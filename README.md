@@ -10,7 +10,7 @@
 ### Controle
 - Controle de acesso por autenticação de usuários
     - Autenticação Genérica
-    - Autenticação por confirmação
+    - Autenticação por confirmação (integração com e-mail ou por Whatsapp)
 - Disponibilizar um log de acessos 
     - Marco Civil da Internet (Lei 12.965/2014)
 Empresas que oferecem Wi-Fi ao público são obrigadas a manter registros de conexão por no mínimo 1 ano, identificando quem usou a rede, quando e por quanto tempo. O não cumprimento pode resultar em responsabilidade civil e criminal perante autoridades. O MikroTik gera e armazena esses logs automaticamente.
@@ -47,7 +47,7 @@ Monitorando o equipamento, tem-se informações sobre usuários cadastrados e lo
 
 ## Configuração ByPass
 ![Tela de configuração conexão ODBC](/Prints/ConfgByPass.png "Arquivo de Registro")
-Alguns dispositivos existentes na rede do HotSpot podem não ter a obrigatoriedade de se logar (aparelhos de tv, impressoras, outros dispositivos especificos) que através de configuração se logam à rede automaticamente.
+Alguns dispositivos (aparelhos de tv, impressoras, outros dispositivos especificos) existentes na rede do HotSpot podem não ter a obrigatoriedade de se logar da forma como os clientes, portanto através de configuração são logados à rede automaticamente e de forma transparente.
 
 ## Automação de Açõespor Scripts
 ![Tela de configuração conexão ODBC](/Prints/CodigoScript.png "Arquivo de Registro")
