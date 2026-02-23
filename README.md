@@ -32,7 +32,23 @@ Empresas que oferecem Wi-Fi ao público são obrigadas a manter registros de con
 
 ## Tela conexão
 ![Tela de configuração conexão ODBC](/Prints/TelaLogin.png "Tela de Login")
+Tela que o usuário recebe ao solicitar acesso a rede Wi-Fi. Customizada para receber as informações mais importantes, sem exigir tempo excessivo do cliente. Informações como NOME e TELEFONE são essenciais. 
 
-
-## Teste de alteração
+## Tela de registro dos acessos
 ![Tela de configuração conexão ODBC](/Prints/BaseRegistro.png "Arquivo de Registro")
+Após o login efetivado, as informações de LOGIN e LOGOUT são registradas em uma base auxiliar, que pode ser uma planilha excel.
+
+## Usuários cadastrados
+![Tela de configuração conexão ODBC](/Prints/UsuariosCadastrados.png "Arquivo de Registro")
+
+## Usuários Logados
+![Tela de configuração conexão ODBC](/Prints/UsuariosAtivos.png "Arquivo de Registro")
+Monitorando o equipamento, tem-se informações sobre usuários cadastrados e logados, em determinado momento.
+
+## Configuração ByPass
+![Tela de configuração conexão ODBC](/Prints/ConfgByPass.png "Arquivo de Registro")
+Alguns dispositivos existentes na rede do HotSpot podem não ter a obrigatoriedade de se logar (aparelhos de tv, impressoras, outros dispositivos especificos) que através de configuração se logam à rede automaticamente.
+
+## Automação de Açõespor Scripts
+![Tela de configuração conexão ODBC](/Prints/CodigoScript.png "Arquivo de Registro")
+Configurações que automatizam ações dentro dos processos de login e logout, tornando transparente aos usuários todos os procedimentos de autenticação.
