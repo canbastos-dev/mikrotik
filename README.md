@@ -16,7 +16,7 @@
 Empresas que oferecem Wi-Fi ao público são obrigadas a manter registros de conexão por no mínimo 1 ano, identificando quem usou a rede, quando e por quanto tempo. O não cumprimento pode resultar em responsabilidade civil e criminal perante autoridades. O MikroTik gera e armazena esses logs automaticamente.
 
 - Controle do consumo de banda
-    - Não permitir que um único usuário utilize toda a banda disponível,tornando inviável os demais acessos.
+    - Não permitir que um único usuário utilize toda a banda disponível, tornando inviável os demais acessos.
 
 ### Segurança 
 - Distinção física entre rede corporativa e rede de clientes
@@ -36,7 +36,7 @@ Tela que o usuário recebe ao solicitar acesso a rede Wi-Fi. Customizada para re
 
 ## Tela de registro dos acessos
 ![Tela de configuração conexão ODBC](/Prints/BaseRegistro.png "Arquivo de Registro")
-Após o login efetivado, as informações de LOGIN e LOGOUT são registradas em uma base auxiliar, que pode ser uma planilha excel.
+Após o login efetivado, as informações de LOGIN e LOGOUT são registradas em uma base auxiliar, que pode ser uma planilha excel. Essa abordagem desobriga custos adicionais com contratação ou aquisição de servidor/serviços para armazenagem.
 
 ## Usuários cadastrados
 ![Tela de configuração conexão ODBC](/Prints/UsuariosCadastrados.png "Arquivo de Registro")
